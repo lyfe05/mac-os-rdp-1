@@ -2,7 +2,7 @@ ub: https://github.com/JohnnyNetsec/github-vm/tree/main/mac
 
 If you wanna try MacOS, here is workflow script. I will give it a try then post a video for it:
 
-macos.txt
+macos.txt 
 name: MacRDP
 on: 
   workflow_dispatch:
